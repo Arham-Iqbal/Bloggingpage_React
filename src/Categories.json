@@ -1,0 +1,33 @@
+[
+    {
+      "id": 1,
+      "name": "Technology",
+      "description": "All the latest updates and trends in technology, covering software, gadgets, and innovations.",
+      "posts": [1, 2]  
+    },
+    {
+      "id": 2,
+      "name": "Lifestyle",
+      "description": "Tips and articles on healthy living, mindfulness, fashion, and daily habits.",
+      "posts": [3, 4] 
+    },
+    {
+      "id": 3,
+      "name": "Travel",
+      "description": "Explore travel destinations, tips for travelers, and guides for adventure seekers.",
+      "posts": [5, 6]
+    },
+    {
+      "id": 4,
+      "name": "Food",
+      "description": "Delicious recipes, cooking tips, and food trends from around the world.",
+      "posts": [7, 8]
+    },
+    {
+      "id": 5,
+      "name": "Business",
+      "description": "Insights and advice for entrepreneurs, startups, and business enthusiasts.",
+      "posts": [9, 10]
+    }
+  ]
+  
